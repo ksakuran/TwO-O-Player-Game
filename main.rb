@@ -72,7 +72,7 @@ until game_won do
     puts "#{winner.name} wins with a score of #{winner.check_score}"
     line_break
     puts "---- GAME OVER ----"
-    puts "Good bye!"
+    puts "Thanks for playing"
   end
 
 
